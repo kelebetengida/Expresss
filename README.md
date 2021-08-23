@@ -20,8 +20,8 @@ This is a web based application called Note Taker that can be used to write and 
 
 This is a web app designed for note taking. The notes are also deleted and can be edited if needed. 
 
-![](./Develop/image/11-express-homework-demo-01.png)
-![](./Develop/image/11-express-homework-demo-02.png))
+![](./image/11-express-homework-demo-01.png)
+![](./image/11-express-homework-demo-02.png))
 
 
 
@@ -53,9 +53,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 
-# Link
+# Deployed Link
 
-
+https://note-taker-with-express.herokuapp.com/
 
 # Technologies
 
@@ -67,6 +67,6 @@ Bootstrap
 
 ## Questions
 
-GitHub: [github.com/kelebetengida]
+GitHub: [github.com/kelebetengida]()
 
 Email: [engidk@uw.edu]()
